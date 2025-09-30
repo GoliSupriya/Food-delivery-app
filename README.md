@@ -33,7 +33,8 @@ Check out the deployed site:
 | Styling   | CSS / Styled Components |
 | State Management  Context API 
 
-![Uploading image.png…]()
+
+<img width="1744" height="899" alt="Screenshot 2025-09-30 192902" src="https://github.com/user-attachments/assets/7a955584-7d40-4cb0-8ee2-a58d363677f1" />
 
 
 

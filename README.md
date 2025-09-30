@@ -1,16 +1,39 @@
-# React + Vite
+# Meal Mate 🍽️
+<img width="1803" height="889" alt="image" src="https://github.com/user-attachments/assets/0e9f77b9-157f-46de-9b1a-40e38fcf4da1" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+**Meal Mate** is a food delivery web application that enables users to browse restaurants, view menus, place orders, and track delivery status. The live site is deployed here: https://meal-mate-fooddelivery-website.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- Browse and search restaurants  
+- View menu items for a selected restaurant  
+- Add items to cart  
+- Place an order  
+- Order tracking / status updates  
+- Responsive design (works across desktop and mobile)  
+- Basic user authentication (if applicable)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Live Demo
+
+Check out the deployed site:  
+[Meal Mate Live Site](https://meal-mate-fooddelivery-website.netlify.app/)
+
+---
+
+## Tech Stack
+
+| Component | Technology / Library |
+|-----------|----------------------|
+| Frontend  | React 
+| Styling   | CSS / Styled Components |
+| State Management  Context API 
+
+![Uploading image.png…]()
+
+
+
